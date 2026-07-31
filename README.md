@@ -6,9 +6,9 @@ Website / Waiting List: https://bloomselfcare.org/
 Description: A postpartum-focused wellness brand currently in production and early launch phase.
 
 
-## 👗 Thistle & Frame
-Website: https://thistleandframe.castletech.org/  
-Description: A curated fashion and affiliate platform showcasing affordable luxury-inspired pieces.
+## 👗 Thetrendhouseofficial
+Website: https://thetrendhouse.org 
+Description: A curated fashion platform showcasing affordable luxury-inspired pieces.
 
 
 ## 🔐 CyberNest
